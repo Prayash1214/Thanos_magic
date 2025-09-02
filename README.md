@@ -1,1 +1,1 @@
-# Thanos_magic
+# Thanos_magic_snap
